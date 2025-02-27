@@ -156,6 +156,7 @@ footer p {
 
 .gallery {
   aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 .comment-writing-container {
